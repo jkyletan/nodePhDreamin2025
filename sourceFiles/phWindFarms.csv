@@ -1,0 +1,23 @@
+Farm Name,Location,Number of Turbines,Total Capacity (MW),Total Area (Square Feet),Annual Energy Production (GWh),Date of Commissioning,Type,Has Offshore Capabilities,Country,Wind Farm Operator
+Bangui Wind Farm,"Bangui, Ilocos Norte, Philippines",20,33.0,538379226,130,06/01/2005,ON,No,Philippines,NorthWind Power Development Corporation
+Caparispisan Wind Farm,"Pagudpud, Ilocos Norte, Philippines",27,54.0,807572578,180,02/25/2015,OF,Yes,Philippines,NorthWind Power Development Corporation
+San Lorenzo Wind Farm,"Guimaras Island, Philippines",27,54.0,807572578,160,05/15/2015,OF,Yes,Philippines,Energy Development Corporation
+Pililla Wind Farm,"Pililla, Rizal, Philippines",27,54.0,807572578,150,01/01/2016,ON,No,Philippines,First Gen Corporation
+Manapla Wind Farm,"Manapla, Negros Occidental, Philippines",22,50.0,645835110,120,03/10/2016,ON,No,Philippines,Northwind Power Development Corporation
+Nabas Wind Farm,"Nabas, Aklan, Philippines",18,36.0,538379226,100,12/22/2014,HY,Yes,Philippines,Trans-Asia Renewable Energy Corporation
+Batan Wind Farm,"Batan, Aklan, Philippines",15,30.0,484376332,80,11/15/2013,OF,Yes,Philippines,Trans-Asia Renewable Energy Corporation
+Concepcion Wind Farm,"Concepcion, Iloilo, Philippines",14,40.0,430703381,110,09/18/2015,ON,No,Philippines,San Lorenzo Wind Power Inc.
+Burdeos Wind Farm,"Burdeos, Quezon, Philippines",10,20.0,215351690,50,06/15/2017,HY,Yes,Philippines,Philippine Wind Energy Development Corporation
+Batanes Wind Farm,"Batanes, Philippines",10,15.0,215351690,40,07/30/2017,ON,No,Philippines,Philippine Wind Energy Development Corporation
+Guimaras Wind Farm,"Guimaras Island, Philippines",27,54.0,807572578,160,04/02/2016,HY,Yes,Philippines,Energy Development Corporation
+Burgos Wind Farm,"Burgos, Ilocos Norte, Philippines",50,150.0,1614592277,350,08/15/2014,HY,Yes,Philippines,AC Energy
+Tablas Wind Farm,"Tablas Island, Romblon, Philippines",15,30.0,323239822,80,10/20/2018,ON,No,Philippines,Alternergy Wind One Corporation
+Malabrigo Wind Farm,"Nasugbu, Batangas, Philippines",20,40.0,538379226,110,12/10/2019,HY,Yes,Philippines,Trans-Asia Renewable Energy Corporation
+Patnanungan Wind Farm,"Patnanungan, Quezon, Philippines",12,30.0,323239822,90,04/12/2020,OF,Yes,Philippines,Philippine Wind Energy Development Corporation
+Laoag Wind Farm,"Laoag, Ilocos Norte, Philippines",18,36.0,538379226,120,07/30/2017,ON,No,Philippines,NorthWind Power Development Corporation
+Maqueda Bay Wind Farm,"Samar, Philippines",14,28.0,430703381,100,09/25/2021,ON,No,Philippines,Philippine Wind Energy Development Corporation
+Isla Wind Farm,"Isla de Pio, Batangas, Philippines",15,30.0,484376332,85,01/15/2022,ON,No,Philippines,Alternergy Wind One Corporation
+Nasugbu Wind Farm,"Nasugbu, Batangas, Philippines",12,24.0,323239822,70,06/10/2021,OF,Yes,Philippines,Trans-Asia Renewable Energy Corporation
+Kalayaan Wind Farm,"Kalayaan, Laguna, Philippines",13,26.0,344928071,75,02/14/2019,ON,No,Philippines,First Gen Corporation
+Daanbantayan Wind Farm,"Daanbantayan, Cebu, Philippines",16,32.0,430703381,110,08/23/2020,HY,Yes,Philippines,First Gen Corporation
+Sambawan Wind Farm,"Sambawan, Leyte, Philippines",10,20.0,215351690,50,11/05/2022,OF,Yes,Philippines,Green Core Geothermal
