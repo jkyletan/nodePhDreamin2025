@@ -1,9 +1,9 @@
 import {getJsonDataFromCsv, createCsvFileFromJson, bulkInsertToSalesforce} from '@_kyletan/sftoolkit'
 import { GetLatLngByAddress } from '@geocoder-free/google';
 import units from "simple-units";
+
 const filePath = 'sourceFiles/phWindFarms.csv';
 const orgAlias = 'phd25';
-
 const typeMapping = {
     'ON' : 'Onshore',
     'OF' : 'Offshore',
@@ -41,7 +41,7 @@ const main = async () => {
     let csvFilePath = await createCsvFileFromJson(transformedList);
 
     //4. INSERT CSV TO SALESFORCE
-    await bulkInsertToSalesforce(csvFilePath, 'Site__c', orgAlias);
+    await bulkInsertToSalesforce(csvFilePath, 'WindFarmSite__c', orgAlias);
 }
 
 main();
